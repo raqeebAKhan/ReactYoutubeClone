@@ -1,0 +1,53 @@
+.videoCard{
+    margin-bottom: 40px;
+    width: 270px;
+}
+
+.videoCard_frame{
+    height: 140px;
+    width: 250px;
+}
+
+.videoCard_info{
+    display: flex;
+    margin-top: 10px;
+    padding-right: 30px;
+}
+
+.videoCard_text{
+    margin-left: 15px;
+}
+
+.videoCard_text > h4 {
+    font-size: 14px;
+    color: gray;
+}
+
+.videoCard_text > p{
+    font-size: 14px;
+    color: gray;
+}
+
+.video_avatar{
+    height: 30px !important;
+    width: 30px !important;
+}
+
+.Thumbicon{
+  display: block;
+ align-items: center;
+ margin-top: 8px;
+   height: 10px !important;
+    width: 10px !important;
+}
+
+.Thummbicon{
+    display: block;
+    margin-top: -8px;
+    float: right;
+
+
+    height: 40px !important;
+    width: 40px !important;
+}
+
