@@ -14,5 +14,3 @@ This website is a youtube clone.
 
 ## Website Link
 https://rak-youtube.netlify.app/
-
-## Screenshots of Website
